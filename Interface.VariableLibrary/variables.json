@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "gateway_paie",
+      "note": "",
+      "type": "String",
+      "value": "6c59b0d6-6bff-49d4-adff-1c91a1cd2758"
+    }
+  ]
+}
